@@ -28,12 +28,9 @@ Choose the appropriate option based on the desired calculation. Follow the promp
 - ASE (Atomic Simulation Environment)
 - Numpy
 
-## Contributing
+## Contributing and Support
 
 Feel free to open an issue or submit a pull request for any bug fixes, improvements, or new features.
-
-## Support
-
 If you find NEasy helpful, consider buying the developer a cup of coffee!
 
 
