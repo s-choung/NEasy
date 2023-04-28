@@ -1,6 +1,6 @@
 # NEasy: Fast and Efficient NEB easy peasy
 
-NEasy is a user-friendly tool to simplify NEB calculations by providing an accessible interface for various computational tasks. This repository contains the necessary scripts and tools to perform calculations like image generation, interpolation, and image-dependent pair potential (IDPP) calculations.
+NEasy is a VASP_Linux_environment-friendly tool to simplify NEB calculations by providing an accessible interface for various computational tasks. This repository contains the necessary scripts and tools to perform calculations like image generation, interpolation, and image-dependent pair potential (IDPP) calculations.
 
 ## Features
 
