@@ -27,6 +27,13 @@ Choose the appropriate option based on the desired calculation. Follow the promp
 
 - ASE (Atomic Simulation Environment)
 - Numpy
+- POVRAY
+'''
+#Install using SUDO if you have permission(local computer, colab etc) - takes few seconds
+https://wiki.povray.org/content/HowTo:Install_POV
+#or follow the instruction (Linux) if you are using NEasy in Burning Server - takes few munutes
+https://wiki.povray.org/content/HowTo:Install_POV
+'''
 
 ## Contributing and Support
 
