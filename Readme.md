@@ -5,11 +5,9 @@ NEasy is a VASP_Linux_environment-friendly tool to simplify NEB calculations by 
 ## Features
 
 - Image Maker
-- Pre-calculator
-- Calculator
-- Image render and display
-- Advanced Image Generator
-- Image Distance Calculator
+- Pre-calculator (Under development)
+- Image render and display (Under development)
+- Advanced Image Generator (Under development)
 
 ## Getting Started
 
@@ -28,10 +26,9 @@ Choose the appropriate option based on the desired calculation. Follow the promp
 - ASE (Atomic Simulation Environment)
 - Numpy
 - POVRAY
-'''
-#Install using SUDO if you have permission(local computer, colab etc) - takes few seconds
+### Install using SUDO if you have permission(local computer, colab etc) - takes few seconds
 https://wiki.povray.org/content/HowTo:Install_POV
-#or follow the instruction (Linux) if you are using NEasy in Burning Server - takes few munutes
+### or follow the instruction (Linux) if you are using NEasy in Burning Server - takes few munutes
 https://wiki.povray.org/content/HowTo:Install_POV
 '''
 
